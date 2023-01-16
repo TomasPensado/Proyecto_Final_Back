@@ -1,3 +1,4 @@
+D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Service\ImpPersonaService.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Service\SEducacion.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\Repository\iUsuarioRepository.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Entity\Educacion.java
@@ -12,7 +13,6 @@ D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Fi
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\Entity\Rol.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\jwt\JwtProvider.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Dto\dtoEducacion.java
-D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Service\ImpPersonaSerive.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\Service\UserDetailsImpl.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Controller\CExperiencia.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Entity\Persona.java
@@ -25,10 +25,10 @@ D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Fi
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\Controller\Mensaje.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\Dto\NuevoUsuario.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Service\SHys.java
-D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Interface\IPersonaService.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\Dto\JwtDto.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Security\jwt\JwtTokenFilter.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Controller\PersonaController.java
+D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Dto\dtoPersona.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Service\SExperiencia.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Repository\RHys.java
 D:\Archivos de Programa\Cosas de Tomás\Argentina_Programa\Integrador\Proyecto_Final\PortfolioWeb\Proyecto_Final_Back\src\main\java\com\portfolioweb\tp\Repository\REducacion.java

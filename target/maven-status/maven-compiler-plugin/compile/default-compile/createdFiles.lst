@@ -2,12 +2,13 @@ com\portfolioweb\tp\Security\Service\RolService.class
 com\portfolioweb\tp\Controller\CHys.class
 com\portfolioweb\tp\Security\Enums\RolNombre.class
 com\portfolioweb\tp\Security\Repository\iUsuarioRepository.class
-com\portfolioweb\tp\Interface\IPersonaService.class
+com\portfolioweb\tp\Dto\dtoPersona.class
 com\portfolioweb\tp\Controller\CExperiencia.class
 com\portfolioweb\tp\Security\Dto\NuevoUsuario.class
 com\portfolioweb\tp\Entity\Educacion.class
 com\portfolioweb\tp\Entity\hys.class
 com\portfolioweb\tp\Security\jwt\JwtTokenFilter.class
+com\portfolioweb\tp\Service\ImpPersonaService.class
 com\portfolioweb\tp\Dto\dtoEducacion.class
 com\portfolioweb\tp\Security\Entity\Usuario.class
 com\portfolioweb\tp\Security\Controller\Mensaje.class
@@ -31,7 +32,6 @@ com\portfolioweb\tp\Security\jwt\JwtProvider.class
 com\portfolioweb\tp\Service\SEducacion.class
 com\portfolioweb\tp\Security\jwt\JwtEntryPoint.class
 com\portfolioweb\tp\Service\SHys.class
-com\portfolioweb\tp\Service\ImpPersonaSerive.class
 com\portfolioweb\tp\Dto\dtoExperiencia.class
 com\portfolioweb\tp\Entity\Experiencia.class
 com\portfolioweb\tp\Security\Controller\AuthController.class
